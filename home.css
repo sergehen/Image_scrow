@@ -61,3 +61,10 @@ height: 100%;
  margin-top: 15px;
  color: rgb(141, 60, 71);
 }
+
+span h2{
+ margin: 10px;
+ font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ font-weight: 500;
+ color: #e4d8d8;
+}
